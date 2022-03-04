@@ -1,3 +1,9 @@
+/*
+  Name: Simon Says
+  Developer: Landon Harter + Josiah Fuller
+  Date: 3.4.22
+*/
+
 #include "pitches.h"
 #include <List.hpp>
 
